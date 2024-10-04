@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Galang Talkhis
+- 👀 Tech enthusiast
+- 🌱 I’m currently learning web development
+- 😄 Pronouns: He/Him
+- I am currently studying informatics engineering at UHAMKA.
